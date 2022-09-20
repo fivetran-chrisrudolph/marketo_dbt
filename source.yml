@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: chris_rudolph_marketo
+    tables:
+      - name: lead_describe
+      - name: lead
